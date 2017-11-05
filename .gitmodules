@@ -1,0 +1,6 @@
+[submodule "pixel-cnn"]
+	path = pixel-cnn
+	url = https://github.com/Aaron-Jin-Xu/pixel-cnn.git
+[submodule "dcgan-completion.tensorflow"]
+	path = dcgan-completion.tensorflow
+	url = https://github.com/Aaron-Jin-Xu/dcgan-completion.tensorflow.git
