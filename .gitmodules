@@ -4,3 +4,6 @@
 [submodule "dcgan-completion.tensorflow"]
 	path = dcgan-completion.tensorflow
 	url = https://github.com/Aaron-Jin-Xu/dcgan-completion.tensorflow.git
+[submodule "fast-pixel-cnn"]
+	path = fast-pixel-cnn
+	url = https://github.com/Aaron-Jin-Xu/fast-pixel-cnn.git
